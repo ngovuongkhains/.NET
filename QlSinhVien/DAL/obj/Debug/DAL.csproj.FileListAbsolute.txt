@@ -1,0 +1,7 @@
+C:\Users\TranDucTam\source\repos\QlSinhVien\DAL\bin\Debug\DAL.dll.config
+C:\Users\TranDucTam\source\repos\QlSinhVien\DAL\bin\Debug\DAL.dll
+C:\Users\TranDucTam\source\repos\QlSinhVien\DAL\bin\Debug\DAL.pdb
+C:\Users\TranDucTam\source\repos\QlSinhVien\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\TranDucTam\source\repos\QlSinhVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\TranDucTam\source\repos\QlSinhVien\DAL\obj\Debug\DAL.dll
+C:\Users\TranDucTam\source\repos\QlSinhVien\DAL\obj\Debug\DAL.pdb

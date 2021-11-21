@@ -1,0 +1,12 @@
+C:\Users\TranDucTam\source\repos\QlSinhVien\BUS\bin\Debug\BUS.dll
+C:\Users\TranDucTam\source\repos\QlSinhVien\BUS\bin\Debug\BUS.pdb
+C:\Users\TranDucTam\source\repos\QlSinhVien\BUS\bin\Debug\DAL.dll
+C:\Users\TranDucTam\source\repos\QlSinhVien\BUS\bin\Debug\DTO.dll
+C:\Users\TranDucTam\source\repos\QlSinhVien\BUS\bin\Debug\DAL.pdb
+C:\Users\TranDucTam\source\repos\QlSinhVien\BUS\bin\Debug\DAL.dll.config
+C:\Users\TranDucTam\source\repos\QlSinhVien\BUS\bin\Debug\DTO.pdb
+C:\Users\TranDucTam\source\repos\QlSinhVien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\TranDucTam\source\repos\QlSinhVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\TranDucTam\source\repos\QlSinhVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\TranDucTam\source\repos\QlSinhVien\BUS\obj\Debug\BUS.dll
+C:\Users\TranDucTam\source\repos\QlSinhVien\BUS\obj\Debug\BUS.pdb

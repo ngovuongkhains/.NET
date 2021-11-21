@@ -1,0 +1,9 @@
+C:\Users\TranDucTam\source\repos\TreeView\TreeView\obj\Debug\Treeview.Form1.resources
+C:\Users\TranDucTam\source\repos\TreeView\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+C:\Users\TranDucTam\source\repos\TreeView\TreeView\obj\Debug\TreeView.csproj.GenerateResource.cache
+C:\Users\TranDucTam\source\repos\TreeView\TreeView\obj\Debug\TreeView.csproj.CoreCompileInputs.cache
+C:\Users\TranDucTam\source\repos\TreeView\TreeView\bin\Debug\TreeView.exe.config
+C:\Users\TranDucTam\source\repos\TreeView\TreeView\bin\Debug\TreeView.exe
+C:\Users\TranDucTam\source\repos\TreeView\TreeView\bin\Debug\TreeView.pdb
+C:\Users\TranDucTam\source\repos\TreeView\TreeView\obj\Debug\TreeView.exe
+C:\Users\TranDucTam\source\repos\TreeView\TreeView\obj\Debug\TreeView.pdb
